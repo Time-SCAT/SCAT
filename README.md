@@ -13,6 +13,10 @@ SCAT addresses limitations in data acquisition equipment by employing a preproce
 **2. Alternating  Attention**
 
 Unlike the prevalent transformer-based models that perform feature extraction based on query-key connections among tokens, alternating attention utilizes clustering centers as attention computation cores. This unique approach considers both Euclidean distance and feature distance between tokens. After nonlinear propagation through activation functions, SCAT implement sequence-level attention filtering instead of token-level attention, thereby preserving the global characteristics of tokens within each channel to the maximum extent.
+
+![1704708101251](https://github.com/Nickname1233/SCAT/assets/155961174/6c53c4c9-74e0-4c43-82f6-07a6fbf3733b)
+
+
 ## Get Started
 
 1. Install Python 3.6, PyTorch 1.7.1.
