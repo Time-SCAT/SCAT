@@ -16,6 +16,10 @@ Unlike the prevalent transformer-based models that perform feature extraction ba
 
 ![1704708101251](https://github.com/Nickname1233/SCAT/assets/155961174/6c53c4c9-74e0-4c43-82f6-07a6fbf3733b)
 
+![d62d091b0bc9d318bd42198c2a170ee](https://github.com/Nickname1233/SCAT/assets/155961174/208de6a5-ed21-4078-8545-03614899f667)
+
+![34485a8c33ea04f8e2a1eea15bcd2f7](https://github.com/Nickname1233/SCAT/assets/155961174/a26ddf63-fa29-4e30-b933-69ef7cbf1883)
+
 
 ## Get Started
 
